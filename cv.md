@@ -1,11 +1,6 @@
 # _ALEXEI SHEDKO_
----
+
 ### Deputy Director for Foreign Economic Activity
-
-
-## CONTACT
-* tel: +375291446712
-* e-mail: alexeishedko@yandex.ru
 
 
 ## ABOUT ME
@@ -18,7 +13,7 @@
 * Product Manager
     * _Atlant-M Minsk / 2018 - 2019_
 * Head of PC Sales
-    * _Atlant-M Minsk / 2016 - 2022_
+    * _Atlant-M Minsk / 2019 - 2022_
 * Deputy Director for Foreign Economic Activity
     * _Atlant-M Minsk / 2022 - Present_
 
@@ -34,7 +29,13 @@
 
 ## LANGUAGES
 * Russian
+    * Native language
 * Belorussian
+    * Native language
 * English
     * Level - B2
 
+
+## CONTACT
+* tel: +375291446712
+* e-mail: alexeishedko@yandex.ru
