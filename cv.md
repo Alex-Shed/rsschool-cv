@@ -14,7 +14,7 @@
 
 ## WORK EXPERIANCE
 * Deputy Director for Foreign Economic Activity
-** _Atlant-M Minsk / 2016 - Present_
+    * _Atlant-M Minsk / 2016 - Present_
 
 
 ## SKILLS
@@ -30,5 +30,5 @@
 * Russian
 * Belorussian
 * English
-** Level - B2
+    * Level - B2
 
