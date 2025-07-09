@@ -1,6 +1,6 @@
 # _ALEXEI SHEDKO_
 ---
-### FOREIGN ECONOMIC ACTIVITY SPECIALIST
+### Deputy Director for Foreign Economic Activity
 
 
 ## CONTACT
@@ -13,8 +13,14 @@
 
 
 ## WORK EXPERIANCE
+* Disponent
+    * _Atlant-M Minsk / 2016 - 2018_
+* Product Manager
+    * _Atlant-M Minsk / 2018 - 2019_
+* Head of PC Sales
+    * _Atlant-M Minsk / 2016 - 2022_
 * Deputy Director for Foreign Economic Activity
-    * _Atlant-M Minsk / 2016 - Present_
+    * _Atlant-M Minsk / 2022 - Present_
 
 
 ## SKILLS
