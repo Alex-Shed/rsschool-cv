@@ -1,5 +1,5 @@
 # _ALEXEI SHEDKO_
-
+---
 ### Deputy Director for Foreign Economic Activity
 
 
@@ -37,5 +37,6 @@
 
 
 ## CONTACT
-* tel: +375291446712
-* e-mail: alexeishedko@yandex.ru
+* Phone: +375291446712
+* E-mail: alexeishedko@yandex.ru
+* Telegram: @AlexeiShedko
