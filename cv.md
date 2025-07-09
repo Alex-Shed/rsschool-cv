@@ -1,7 +1,7 @@
 # _ALEXEI SHEDKO_
----
-### Deputy Director for Foreign Economic Activity
 
+### Deputy Director for Foreign Economic Activity
+---
 
 ## ABOUT ME
 *I am an adaptable and inquisitive person. I enjoy playing squash and relaxing in nature in my free time. I always seek new and interesting experiences. I am characterized by high responsibility, purposefulness, and the ability to work in a team.*
